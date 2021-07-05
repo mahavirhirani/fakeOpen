@@ -1,4 +1,4 @@
-[
+{"open":[
   {
     "type": "Critical",
     "count": 12
@@ -15,4 +15,4 @@
     "type": "Low",
     "count": 65
   }
-]
+]}
